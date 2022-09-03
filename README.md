@@ -1,2 +1,2 @@
 # chikov_projects
-My projects from Yandex.Practicum educational course. 
+Проекты, выполненные мной в ходе обучения в Яндекс.Практикум по специальности "Аналитик данных".
